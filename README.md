@@ -1,1 +1,1 @@
-# video_recorder_sdk
+# video_recorder_mfc
